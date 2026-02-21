@@ -1,5 +1,5 @@
 # IgbaMi  
-### A Digital Product Catalog Platform for Small Nigerian Businesses 🇳🇬
+### A Digital Product Catalog Platform for Small Nigerian Businesses
 
 ---
 
@@ -89,7 +89,7 @@ IgbaMi is built as a full-stack monorepo:
 
 ```
 
-igbami/
+IgbaMi/
 │
 ├── igbami_backend/     → Django + Django REST Framework
 ├── igbami_frontend/    → React (Vite) + TailwindCSS
@@ -235,5 +235,5 @@ This project was built as part of the ALX Capstone Project and is intended for e
 ## 👨🏽‍💻 Author
 
 Built by **Alphakeem Adroit**
-Full Stack Web Developer
+| Full Stack Web Developer
 
